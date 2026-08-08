@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "BGM Player [BP]",
+    "description": "Shift x2 = ON/+1 track, Shift x3 = OFF, Sneak+Jump = +10 tracks",
+    "uuid": "3bd5fbc8-c48d-4477-9222-ecf905b2c96b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/main.js",
+      "uuid": "1e2afc51-7313-4f0e-9606-2aec5f5a1f30",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "4b378c79-cc33-4a05-921c-031811e30ce5",
+      "version": [1, 0, 0]
+    }
+  ]
+}
