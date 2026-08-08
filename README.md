@@ -17,8 +17,7 @@ While playing, the current track title and artist are shown on screen — e.g. `
 
 ## Download
 
-👉 **[Download on CurseForge](URLをここに)** ← 承認後に差し替え
-
+**[Download on CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/sneakbeats-bgm-player)** 
 Or grab the `.mcaddon` from [Releases](../../releases).
 
 ## How it works
